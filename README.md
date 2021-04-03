@@ -1,27 +1,6 @@
 # AngularRouting
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![screencapture-localhost-60630-info-2021-04-03-21_29_30](https://user-images.githubusercontent.com/81439037/113484060-072fb500-94c4-11eb-852d-ea6ff31d6708.png)
+![screencapture-localhost-60630-userdetails-2021-04-03-21_29_21](https://user-images.githubusercontent.com/81439037/113484062-0860e200-94c4-11eb-88b6-721261f3753f.png)
+![screencapture-localhost-60630-user-2021-04-03-21_28_18](https://user-images.githubusercontent.com/81439037/113484064-0a2aa580-94c4-11eb-986a-43c6f16aec8f.png)
+![screencapture-localhost-60630-home-2021-04-03-21_28_07](https://user-images.githubusercontent.com/81439037/113484065-0ac33c00-94c4-11eb-8703-885f57c96e5c.png)
